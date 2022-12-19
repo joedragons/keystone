@@ -1,0 +1,1 @@
+importantRules = ["opt.semgrep.node_nosqli_injection", "SC2148"]

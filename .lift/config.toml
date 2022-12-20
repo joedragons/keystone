@@ -1,1 +1,1 @@
-importantRules = ["SC2148", "opt.semgrep.node_nosqli_injection"]
+#importantRules = ["SC2148", "opt.semgrep.node_nosqli_injection"]
